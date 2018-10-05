@@ -4,5 +4,6 @@ const returnFirstTwoDrivers = function (arr) {
 }
 
 const returnLastTwoDrivers = function (arr) {
+  debugger
   return [arr[-1], arr[-2]]
 }
