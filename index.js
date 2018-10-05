@@ -1,4 +1,4 @@
 // Code your solution in this file!
-function returnFirstTwoDrivers(arr) {
-  debugger
+const returnFirstTwoDrivers = function (arr) {
+  [arr[0], arr[1]]
 }
